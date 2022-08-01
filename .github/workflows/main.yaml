@@ -21,4 +21,4 @@ jobs:
           pip install awsebcli
       - name: Deploy to Elastic Beanstalk
         run: |
-          eb deploy
+          eb deploy apitnsinc-env

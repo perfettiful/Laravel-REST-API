@@ -18,7 +18,7 @@ class UserSeeder extends Seeder
     {
         DB::table('users')->delete();
         $data = [
-            'name' => 'Maniruzzaman Akash',
+            'name' => 'Admin',
             'email' => 'admin@example.com',
             'password' => Hash::make('123456')
         ];

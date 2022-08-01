@@ -1,6 +1,6 @@
 branch-defaults:
   main:
-    environment: null
+    environment: Laravel-REST-API-dev
     group_suffix: null
 global:
   application_name: Laravel-REST-API
