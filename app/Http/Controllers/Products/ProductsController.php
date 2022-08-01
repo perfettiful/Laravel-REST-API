@@ -13,11 +13,11 @@ use Illuminate\Http\Response;
 
 /**
  * @OA\Info(
- *     description="API Documentation - Basic CRUD Laravel",
+ *     description="API Documentation - Laravel Ecommerce",
  *     version="1.0.0",
- *     title="Basic CRUD Laravel API Documentation",
+ *     title="Laravel Ecommerce API Documentation",
  *     @OA\Contact(
- *         email="manirujjamanakash@gmail.com"
+ *         email="nathanperfetti@gmail.com"
  *     ),
  *     @OA\License(
  *         name="GPL2",

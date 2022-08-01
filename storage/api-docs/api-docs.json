@@ -1,10 +1,10 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "Basic CRUD Laravel API Documentation",
-        "description": "API Documentation - Basic CRUD Laravel",
+        "title": "Laravel Ecommerce API Documentation",
+        "description": "API Documentation - Laravel Ecommerce",
         "contact": {
-            "email": "manirujjamanakash@gmail.com"
+            "email": "nathanperfetti@gmail.com"
         },
         "license": {
             "name": "GPL2",
